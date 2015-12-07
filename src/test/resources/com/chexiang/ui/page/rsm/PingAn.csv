@@ -1,0 +1,2 @@
+request,refresh
+http://rsm.sit.chexiang.com/rsmrest/pinganCaseLoad.json,http://rsm.sit.chexiang.com/executePACase/extract.json
